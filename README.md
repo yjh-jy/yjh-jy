@@ -1,7 +1,5 @@
 # Hey there, I'm Jun Han 👋
 
-**Final Year Data Science & Analytics @ NUS**
-
 I like building AI systems that actually work in production. While I enjoy the research side of things, I'm mostly focused on the engineering challenges, figuring out how to make models reliable, factual, and efficient.
 
 Right now I'm deep into **Small Language Models (SLMs)** and **Agentic RAG**. I am intrigued by the idea of taking massive transformer capabilities and optimizing them to run on smaller compute with stricter accuracy guardrails and on par performance.
